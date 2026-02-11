@@ -111,7 +111,7 @@ nav .container .box .icontwo p {
 /* navbar part two ends here */
 /* bannner css starts here */
 .Banner {
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/bannner.png);
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/bannner.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -224,7 +224,7 @@ nav .container .box .icontwo p {
 .services .container .box .card2{
       width: 50%;
   
-       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/servicess1.png);
+       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/servicess1.png);
      background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -251,7 +251,7 @@ nav .container .box .icontwo p {
 .services .container .box .card3{
      background-color: red;
      width: 50%;
-       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/servicess2.png);
+       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/servicess2.png);
      background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -272,7 +272,7 @@ padding-bottom: 100px; }
 .services .container .box .card4{
      background-color: red;
       width: 50%;
-       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/services3.png);
+       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/services3.png);
      background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -314,7 +314,7 @@ padding-bottom: 100px; }
 .learn .container .box .learnleft {
     width: 726px;
     height: 361px;
-     background: url(/images/learn.png);
+     background: url(../images/learn.png);
       background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -377,7 +377,7 @@ padding-bottom: 100px; }
    
 }
 .Blog .container .box .blogbox .box1 {
-    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/blog1.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/blog1.png);
       background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -435,7 +435,7 @@ padding-bottom: 100px; }
   }
 
 .Blog .container .box .blogbox .box2 {
-    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/blog2.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Blog2.png);
       background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -487,7 +487,7 @@ padding-bottom: 100px; }
     padding-left:50px ; 
   }
 .Blog .container .box .blogbox .box3 {
-    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/images/blog3.png);
+    background:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(../images/Blog3.png);
       background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
